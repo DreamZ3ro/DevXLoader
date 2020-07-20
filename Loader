@@ -1,0 +1,7 @@
+if game.PlaceId == 5043740115 then
+loadstring(game:HttpGet("https://github.com/DreamZ3ro/DevX/blob/master/slamming%20sim", true))()
+end
+
+if game.PlaceId == 5123763375 then
+loadstring(game:HttpGet("https://github.com/DreamZ3ro/DevX/blob/master/slamming%20sim", true))()
+end
